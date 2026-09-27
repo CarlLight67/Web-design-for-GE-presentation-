@@ -75,10 +75,6 @@ ARCHI—PH is a 100% static-ready SPA that deploys directly to any static host (
    - **Framework preset**: `Vite`
    - **Build command**: `npm run build`
    - **Build output directory**: `dist`
-3. Add a `public/_redirects` file (or SPA routing rule) if needed:
-   ```text
-   /* /index.html 200
-   ```
 
 ---
 
