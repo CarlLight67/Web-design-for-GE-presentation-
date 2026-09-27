@@ -1,0 +1,6 @@
+{
+  "name": "ARCHI—PH — Philippine Architecture & Heritage Explorer",
+  "description": "A curated digital archive, interactive museum, and research platform dedicated to Philippine architecture, heritage structures, and Filipino architects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
